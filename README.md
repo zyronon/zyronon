@@ -5,7 +5,7 @@
 	   <img width='30' src='https://cdn.jsdelivr.net/gh/yesmore/img/img/pop_cat.gif'/> Here ~  
 	</h2>
   	<ul>
-           <li>我是 <a href='https://ttentau.top'>ttentau</a> </li>    
+           <li>我是 <a href='http://ttentau.top' target="_black">ttentau</a> </li>    
            <li>专业前端，业余黑客</li> 
   	</ul> 
     </td>
@@ -14,7 +14,7 @@
             🔥 𝘔𝘺 Tool
         </h2>
         <ul>
-            <li>🛠️ <a href='https://ttentau.top/dy/' target='_blank'>抖音</a></li> 
+            <li>🛠️ <a href='http://ttentau.top/dy/' target='_blank'>抖音</a></li> 
         </ul>
     </td>
 </tr>
