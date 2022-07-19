@@ -5,7 +5,7 @@
 	   <img width='30' src='https://cdn.jsdelivr.net/gh/yesmore/img/img/pop_cat.gif'/> Here ~  
 	</h2>
   	<ul>
-           <li>我是 <a href='http://ttentau.top' target="_black">ttentau</a> </li>    
+           <li>我是 <a href='http://ttentau.top' target="_black">zyronon</a> </li>    
            <li>专业前端，业余黑客</li> 
   	</ul> 
     </td>
@@ -20,10 +20,10 @@
 </tr>
 <tr>
     <td>      
-	<img width="380px" alt='readme' src="https://github-readme-stats.vercel.app/api?username=ttentau&show_icons=true&theme=radical" />
+	<img width="380px" alt='readme' src="https://github-readme-stats.vercel.app/api?username=zyronon&show_icons=true&theme=radical" />
     </td>
     <td>
-	<img width="380px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=ttentau&layout=compact&hide=html'/>
+	<img width="380px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=zyronon&layout=compact&hide=html'/>
     </td>
 </tr>
 </table>
