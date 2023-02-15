@@ -1,29 +1,10 @@
-<table border="0">
-<tr>
-    <td>
-	<h2>
-	   <img width='30' src='https://cdn.jsdelivr.net/gh/yesmore/img/img/pop_cat.gif'/> Here ~  
-	</h2>
-  	<ul>
-           <li>我是 <a href='http://ttentau.top' target="_black">zyronon</a> </li>    
-           <li>专业前端，业余黑客</li> 
-  	</ul> 
-    </td>
-    <td>
-	 <h2>
-            🔥 𝘔𝘺 Tool
-        </h2>
-        <ul>
-            <li>🛠️ <a href='http://ttentau.top/dy/' target='_blank'>抖音</a></li> 
-        </ul>
-    </td>
-</tr>
-<tr>
-    <td>      
-	<img width="380px" alt='readme' src="https://github-readme-stats.vercel.app/api?username=zyronon&show_icons=true&theme=radical" />
-    </td>
-    <td>
-	<img width="380px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=zyronon&layout=compact&hide=html'/>
-    </td>
-</tr>
-</table>
+## Hi,  I'm Zyronon
+我是Zyronon，专业前端，业余黑客
+
+#### Github repos 
+
+- [douyin](https://github.com/zyronon/douyin.git): Vue.js 仿抖音 imitation TikTok [![](https://img.shields.io/github/stars/zyronon/douyin)](https://github.com/zyronon/douyin.git)
+	
+- [open-design](https://github.com/zyronon/open-design): Open-Design is a graphic drawing using Canvas,Online Design tool based on React [![](https://img.shields.io/github/stars/zyronon/open-design)](https://github.com/zyronon/open-design.git)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Zyronon&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
