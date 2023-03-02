@@ -1,5 +1,4 @@
 ## Hi,  I'm Zyronon
-我是Zyronon，专业前端，业余黑客
 
 #### Github repos 
 
