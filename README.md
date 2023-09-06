@@ -2,7 +2,7 @@
 
 #### Github repos 
 
-- [v2ex-script](https://github.com/zyronon/v2ex-script.git): V2EX - 超级增强 油猴脚本 [![](https://img.shields.io/github/stars/zyronon/v2ex-script)](https://github.com/zyronon/v2ex-script.git)
+- [v2ex-script](https://github.com/zyronon/v2ex-script.git): V2EX最现代、最好用、功能最完整的脚本 [![](https://img.shields.io/github/stars/zyronon/v2ex-script)](https://github.com/zyronon/v2ex-script.git)
 
 - [douyin](https://github.com/zyronon/douyin.git): Vue.js 仿抖音 imitation TikTok [![](https://img.shields.io/github/stars/zyronon/douyin)](https://github.com/zyronon/douyin.git)
 	
