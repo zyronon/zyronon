@@ -3,7 +3,7 @@
 
 #### Github repos 
 
-- [typing-word](https://github.com/zyronon/typing-word): Memorizing words | Learn English | Typing words | 背单词 | 学习英语 | 打单词 [![](https://img.shields.io/github/stars/zyronon/typing-word)](https://github.com/zyronon/typing-word.git)
+- [typing-word](https://github.com/zyronon/typing-word): Memorizing words | Learn English | Typing words | 背单词 | 学习英语 | 练习文章 [![](https://img.shields.io/github/stars/zyronon/typing-word)](https://github.com/zyronon/typing-word.git)
 
 - [v2ex-script](https://github.com/zyronon/v2ex-script.git): V2EX最现代、最好用、功能最完整的脚本 [![](https://img.shields.io/github/stars/zyronon/v2ex-script)](https://github.com/zyronon/v2ex-script.git)
 
