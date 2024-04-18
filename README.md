@@ -7,7 +7,7 @@
  
 - [typing-word](https://github.com/zyronon/typing-word): Memorizing words | Learn English | Typing words | 背单词 | 学习英语 | 练习文章 [![](https://img.shields.io/github/stars/zyronon/typing-word)](https://github.com/zyronon/typing-word)
  
-- [web-scripts](https://github.com/zyronon/web-scripts): 🐵 一些好用的 油猴脚本（包括V2Next）~ [![](https://img.shields.io/github/stars/zyronon/web-scripts)](https://github.com/zyronon/typing-word)
+- [web-scripts](https://github.com/zyronon/web-scripts): 超8000安装量的油猴脚本：V2Next [![](https://img.shields.io/github/stars/zyronon/web-scripts)](https://github.com/zyronon/typing-word)
 
 
  
