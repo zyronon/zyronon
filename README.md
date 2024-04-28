@@ -3,7 +3,7 @@
 
 #### Github repos 
 
-- [douyin](https://github.com/zyronon/douyin.git): Vue3 + Pinia + Vite5 仿抖音，完全度90% . Imitate TikTok with 90% completeness [![](https://img.shields.io/github/stars/zyronon/douyin)](https://github.com/zyronon/douyin.git)
+- [douyin](https://github.com/zyronon/douyin.git): Vue3 + Pinia + Vite5 仿抖音，Vue 在移动端的最佳实践 . Imitate TikTok ，Vue Best practices on Mobile [![](https://img.shields.io/github/stars/zyronon/douyin)](https://github.com/zyronon/douyin.git)
  
 - [typing-word](https://github.com/zyronon/typing-word): Memorizing words | Learn English | Typing words | 背单词 | 学习英语 | 练习文章 [![](https://img.shields.io/github/stars/zyronon/typing-word)](https://github.com/zyronon/typing-word)
  
