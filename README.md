@@ -7,10 +7,5 @@
  
 - [typing-word](https://github.com/zyronon/typing-word): 在网页上背单词 [![](https://img.shields.io/github/stars/zyronon/typing-word)](https://github.com/zyronon/typing-word)
  
-- [web-scripts](https://github.com/zyronon/web-scripts): 超8000安装量的油猴脚本：V2Next [![](https://img.shields.io/github/stars/zyronon/web-scripts)](https://github.com/zyronon/typing-word)
-
-
- 
- 
 ![Github统计](https://github-readme-stats.vercel.app/api?username=Zyronon&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
