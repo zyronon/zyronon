@@ -4,9 +4,7 @@
 > A Front end developer from **ChengDu, China**.
 
 ### Contact me:
-- **QQ** : 1828965237
 - **WeChat** : 15928584225
-- **Phone** : 15928584225
 - **E-mail** : zyronon@163.com
 
 > ### Looking for a good job
