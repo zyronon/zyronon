@@ -9,11 +9,11 @@
 
 > ### Looking for a good job
 
-### 🏠 Blog:
+### Blog:
 
 [https://juejin.cn/user/377887729139502/posts](https://juejin.cn/user/377887729139502/posts)
 
-### 📊 Stats:
+### Stats:
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=zyronon&show_icons=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyronon&layout=compact&theme=buefy&hide_border=true" alt="" /> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
