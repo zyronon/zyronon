@@ -23,3 +23,5 @@
  
 - [typing-word](https://github.com/zyronon/typing-word): 在网页上背单词 [![](https://img.shields.io/github/stars/zyronon/typing-word)](https://github.com/zyronon/typing-word)
  
+- [V2Next](https://github.com/zyronon/v2next): V2Next - 最好用的V站辅助工具 [![](https://img.shields.io/github/stars/zyronon/V2Next)](https://github.com/zyronon/V2Next)
+ 
